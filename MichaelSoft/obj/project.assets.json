@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fuad/Documents/dotnet/MichaelSoft/MichaelSoft.csproj",
+      "projectUniqueName": "/home/fuad/michaelsoft/Binbows/MichaelSoft/MichaelSoft.csproj",
       "projectName": "MichaelSoft",
-      "projectPath": "/home/fuad/Documents/dotnet/MichaelSoft/MichaelSoft.csproj",
+      "projectPath": "/home/fuad/michaelsoft/Binbows/MichaelSoft/MichaelSoft.csproj",
       "packagesPath": "/home/fuad/.nuget/packages/",
-      "outputPath": "/home/fuad/Documents/dotnet/MichaelSoft/obj/",
+      "outputPath": "/home/fuad/michaelsoft/Binbows/MichaelSoft/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fuad/.nuget/NuGet/NuGet.Config"
@@ -62,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/fuad/.dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

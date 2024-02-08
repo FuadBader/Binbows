@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TSWbkIDadDjKRJmw1aROEAF9dnLC2EWXjb5qjwm+1gbqMOqniYJu3fvO3qgeZLMrlmm2lOMwtQH2wiGGim8ruA==",
+  "dgSpecHash": "q2f5tBL153mncu9JGw/qu3cN8pCq3bKq7E4cK6cZ0TIQSEAI2jZvAQGE7ryFz5m4OHgWdzo3iDwW0Y+mI9iE3g==",
   "success": true,
-  "projectFilePath": "/home/fuad/Documents/dotnet/MichaelSoft/MichaelSoft.csproj",
+  "projectFilePath": "/home/fuad/michaelsoft/Binbows/MichaelSoft/MichaelSoft.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
