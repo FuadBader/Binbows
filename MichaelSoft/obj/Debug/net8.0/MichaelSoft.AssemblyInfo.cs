@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MichaelSoft")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd318b1d08f4efc824a824550b87c09a5e0871e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+58e8af4163441e600539fa8a0b4a449eb4887031")]
 [assembly: System.Reflection.AssemblyProductAttribute("MichaelSoft")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MichaelSoft")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

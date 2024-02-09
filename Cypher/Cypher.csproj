@@ -7,11 +7,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\MichaelSoft\MichaelSoft.csproj" />
+      <PackageReference Include="StackExchange.Redis" Version="2.7.17" />
     </ItemGroup>
 
     <ItemGroup>
-      <PackageReference Include="StackExchange.Redis" Version="2.7.17" />
+      <ProjectReference Include="..\Core\Core.csproj" />
+      <ProjectReference Include="..\Data\Data.csproj" />
     </ItemGroup>
 
 </Project>

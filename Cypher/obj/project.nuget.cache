@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pEGCqTcWIYtD8yhCXI/27/qIDnyN84IfvWYNg9hCJ0+xviuyF24qN3rT0FzHlCC/WkE02v1E92NDVX6YfKg+qQ==",
+  "dgSpecHash": "k/mLvCY0QjagOTEIe/3/IAT+uyXf+RzaB1UVHc3+Nmll33rinqQvQGwpjtEGe7srByDhDUpjVJa4IEkEJ3ZZgQ==",
   "success": true,
-  "projectFilePath": "/home/fuad/michaelsoft/Binbows/Cypher/Cypher.csproj",
+  "projectFilePath": "/home/fuad/RiderProjects/Binbows/Cypher/Cypher.csproj",
   "expectedPackageFiles": [
     "/home/fuad/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "/home/fuad/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",

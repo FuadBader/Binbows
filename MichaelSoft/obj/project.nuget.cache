@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "q2f5tBL153mncu9JGw/qu3cN8pCq3bKq7E4cK6cZ0TIQSEAI2jZvAQGE7ryFz5m4OHgWdzo3iDwW0Y+mI9iE3g==",
+  "dgSpecHash": "hRExmcReuVgoa52BKKyDFPS7ATFFLs3RLYOcSGpzcBIxhQ/f59cQKZycvxoYc13n5dbIaS2zggnjdmXCUN69yQ==",
   "success": true,
-  "projectFilePath": "/home/fuad/michaelsoft/Binbows/MichaelSoft/MichaelSoft.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/fuad/RiderProjects/Binbows/MichaelSoft/MichaelSoft.csproj",
+  "expectedPackageFiles": [
+    "/home/fuad/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/home/fuad/.nuget/packages/pipelines.sockets.unofficial/2.2.8/pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "/home/fuad/.nuget/packages/stackexchange.redis/2.7.17/stackexchange.redis.2.7.17.nupkg.sha512",
+    "/home/fuad/.nuget/packages/system.io.pipelines/5.0.1/system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
