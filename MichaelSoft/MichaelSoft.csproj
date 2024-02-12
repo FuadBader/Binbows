@@ -11,4 +11,63 @@
     <ProjectReference Include="..\Data\Data.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include="bin\Debug\net8.0\appsettings.Development.json" />
+    <Content Include="bin\Debug\net8.0\appsettings.json" />
+    <Content Include="bin\Debug\net8.0\Core.dll" />
+    <Content Include="bin\Debug\net8.0\Core.pdb" />
+    <Content Include="bin\Debug\net8.0\Cypher.dll" />
+    <Content Include="bin\Debug\net8.0\Cypher.pdb" />
+    <Content Include="bin\Debug\net8.0\Data.dll" />
+    <Content Include="bin\Debug\net8.0\Data.pdb" />
+    <Content Include="bin\Debug\net8.0\MichaelSoft" />
+    <Content Include="bin\Debug\net8.0\MichaelSoft.deps.json" />
+    <Content Include="bin\Debug\net8.0\MichaelSoft.dll" />
+    <Content Include="bin\Debug\net8.0\MichaelSoft.pdb" />
+    <Content Include="bin\Debug\net8.0\MichaelSoft.runtimeconfig.json" />
+    <Content Include="bin\Debug\net8.0\MichaelSoft.staticwebassets.runtime.json" />
+    <Content Include="bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll" />
+    <Content Include="bin\Debug\net8.0\StackExchange.Redis.dll" />
+    <Content Include="obj\Debug\net8.0\apphost" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.AssemblyInfoInputs.cache" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.assets.cache" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.csproj.AssemblyReference.cache" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.csproj.CopyComplete" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.csproj.CoreCompileInputs.cache" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.dll" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.GeneratedMSBuildEditorConfig.editorconfig" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.genruntimeconfig.cache" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.MvcApplicationPartsAssemblyInfo.cache" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.pdb" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.RazorAssemblyInfo.cache" />
+    <Content Include="obj\Debug\net8.0\MichaelSoft.sourcelink.json" />
+    <Content Include="obj\Debug\net8.0\refint\MichaelSoft.dll" />
+    <Content Include="obj\Debug\net8.0\ref\MichaelSoft.dll" />
+    <Content Include="obj\Debug\net8.0\scopedcss\bundle\MichaelSoft.styles.css" />
+    <Content Include="obj\Debug\net8.0\scopedcss\projectbundle\MichaelSoft.bundle.scp.css" />
+    <Content Include="obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css" />
+    <Content Include="obj\Debug\net8.0\staticwebassets.build.json" />
+    <Content Include="obj\Debug\net8.0\staticwebassets.development.json" />
+    <Content Include="obj\Debug\net8.0\staticwebassets.pack.json" />
+    <Content Include="obj\Debug\net8.0\staticwebassets\msbuild.build.MichaelSoft.props" />
+    <Content Include="obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MichaelSoft.props" />
+    <Content Include="obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MichaelSoft.props" />
+    <Content Include="obj\Debug\net8.0\staticwebassets\msbuild.MichaelSoft.Microsoft.AspNetCore.StaticWebAssets.props" />
+    <Content Include="obj\MichaelSoft.csproj.nuget.dgspec.json" />
+    <Content Include="obj\MichaelSoft.csproj.nuget.g.props" />
+    <Content Include="obj\MichaelSoft.csproj.nuget.g.targets" />
+    <Content Include="obj\project.assets.json" />
+    <Content Include="obj\project.nuget.cache" />
+    <Content Include="obj\project.packagespec.json" />
+    <Content Include="obj\rider.project.restore.info" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\Debug\net8.0\MichaelSoft.AssemblyInfo.cs" />
+    <Compile Include="obj\Debug\net8.0\MichaelSoft.GlobalUsings.g.cs" />
+    <Compile Include="obj\Debug\net8.0\MichaelSoft.RazorAssemblyInfo.cs" />
+  </ItemGroup>
+
 </Project>

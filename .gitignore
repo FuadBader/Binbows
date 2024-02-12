@@ -3,14 +3,14 @@
  
  ### DotnetCore ###
  # .NET Core build folders
- MichaelSoft/bin
- MichaelSoft/obj
+ MichaelSoft/bin/*
+ MichaelSoft/obj/*
 
- Cypher/bin
- Cypher/obj
+ Cypher/bin/*
+ Cypher/obj/*
  
- Core/bin
- Core/obj
+ Core/bin/*
+ Core/obj/*
  
  
  # Common node modules locations
