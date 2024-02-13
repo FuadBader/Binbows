@@ -1,0 +1,15 @@
+@model List<Data.Gallery>
+
+@{
+    Layout = null;
+}
+
+@{
+    foreach (var item in Model)
+    {
+        <h1>@item.Name</h1><br/>
+        <p>@item.image</p><br/>
+        <img src="data:image/png;base64, @item.image"><br/>
+
+    }
+}

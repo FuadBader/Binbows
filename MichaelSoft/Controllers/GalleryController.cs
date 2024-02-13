@@ -11,4 +11,11 @@ public class GalleryController : Controller
         var gallery  = obj.RedisConn();
         return View(gallery);
     }
+    
+    public IActionResult Value()
+    {
+        using var obj = new Cypher.Gallery();
+        var gallery  = obj.RedisConn();
+        return View(gallery);
+    }
 }
